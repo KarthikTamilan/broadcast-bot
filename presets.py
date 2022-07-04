@@ -1,9 +1,9 @@
 class Presets(object):
     WELCOME_MESSAGE = """
 <b>Hello.. </b>{}
-<code>I'm an official telecaster bot
-maintained by</code> <b>{}</b>
-<code>Keep me unblocked to receive ma official updates.</code>
+<code>I'm an HMTD Official File Store Bot 
+Maintained by</code> <b>{}</b>
+<code>Keep me Join to Our Official Channel to receive Bot & Movies updates in @HMTD_Links.</code>
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
     WAIT_MSG = "<b>Please Wait...</b>"
